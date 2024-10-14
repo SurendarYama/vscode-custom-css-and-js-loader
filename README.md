@@ -1,1 +1,2 @@
-# vscode-css-and-js-loader
+# vscode-custom-css-and-js-loader
+
