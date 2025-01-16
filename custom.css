@@ -5,6 +5,8 @@
 .action-label:not(.codicon),
 .menubar-menu-items-holder:last-child,
 .statusbar-item-label,
+.monaco-highlighted-label,
+.message-box-container > span,
 .notification-list-item {
   font-family: "operator mono lig" !important;
 }
