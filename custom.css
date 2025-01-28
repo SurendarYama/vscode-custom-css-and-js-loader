@@ -7,6 +7,9 @@
 .statusbar-item-label,
 .monaco-highlighted-label,
 .message-box-container > span,
+.codicon.codicon.codicon-error > .filename,
+.codicon.codicon.codicon-error > .dirname,
+.search-label,
 .notification-list-item {
   font-family: "operator mono lig" !important;
 }
