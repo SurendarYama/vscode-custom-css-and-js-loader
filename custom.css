@@ -10,8 +10,14 @@
 .codicon.codicon.codicon-error > .filename,
 .codicon.codicon.codicon-error > .dirname,
 .search-label,
+.message-box-container,
+.source,
+.mtk3,
+.view-line,
+.value.info,
+.code-bold,
 .notification-list-item {
-  font-family: "operator mono lig" !important;
+  font-family: "monaspace radon", "operator mono lig", sans-serif !important;
 }
 .sidebar
   > .composite.has-composite-bar.header-or-footer
